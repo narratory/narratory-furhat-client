@@ -1,6 +1,6 @@
 # Narratory Furhat client
 
-Docs on how to build chatbots with Narratory @ [narratory.io](https://narratory.io). Furhat docs @ [furhat.io](https://furhat.io).
+Docs on how to build chatbots with Narratory @ [narratory.io](https://narratory.io). Furhat docs @ [docs.furhat.io](https://docs.furhat.io).
 
 * Put your Google credentials for the Dialogflow project you use for Narratory in google_credentials.json in the root of this repo
 * Run like a normal Furhat skill
